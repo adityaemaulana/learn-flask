@@ -1,0 +1,3 @@
+SQLALCHEMY_ECHO = False
+SQLALCHEMY_TRACK_MODIFICATIONS = True
+SQLALCHEMY_DATABASE_URI = "postgresql://test_rest:123@localhost:5432/test_rest"
